@@ -1,7 +1,10 @@
 # Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Visits Badge](https://badges.pufler.dev/visits/althaafridha/althaafridha)](https://github.com/althaafridha)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/althaaf-ridha-muhammad-zaydaan-batubara-607223180/)
+
+<a href="https://www.linkedin.com/in/althaaf-ridha-muhammad-zaydaan-batubara-607223180/">
+  <img align="left" alt="Althaaf Ridha LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!--
 **althaafridha/althaafridha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
