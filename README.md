@@ -1,4 +1,4 @@
-# Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# haloo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Visits Badge](https://badges.pufler.dev/visits/althaafridha/althaafridha)](https://github.com/althaafridha)
 
