@@ -11,7 +11,7 @@
   </a>
 
   <a href="https://github.com/althaafridha" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=althaafridha&layout=compact&bg_color=1A1A40&text_color=000&border_color=444"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=althaafridha&layout=compact&bg_color=191919&text_color=FFF&border_color=444"  height="165">
   </a>
   <br>
 </p>
