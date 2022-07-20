@@ -7,19 +7,6 @@
 <!--
 **althaafridha/althaafridha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<br>
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/althaafridha/Prostant">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=althaafridha&repo=Prostant&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/althaafridha/beautiful_indonesia">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=althaafridha&repo=beautiful_indonesia&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <br>
 <br>
